@@ -1,1 +1,1 @@
-# labeddit-frontend
+# LABEDDIT FRONT END
