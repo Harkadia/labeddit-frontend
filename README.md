@@ -1,7 +1,6 @@
 # LABEDDIT FRONT END
 
-
-https://reginaldo-labeddit-backend-yr1u.onrender.com/  link do render
+https://reginaldo-labeddit-backend-yr1u.onrender.com/ link do render
 
 https://reginaldo-junior-labeddit.surge.sh/   link do surge
 
